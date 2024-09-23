@@ -21,7 +21,11 @@ public class firstTestng
 		System.out.println(url);
 		System.out.println(urlz);
 	}
-	
+	public void update() 
+	{
+		System.out.println("update");
+	}
+	}
 	
 	
 	
